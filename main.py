@@ -5,7 +5,7 @@ Pure Python standard library only; deterministic; no network.
 """
 
 LINE = (
-    "Hi, you've reached Mittens. I'm busy knocking stuff off the counter "
+    "Hi, you've reached Mittens. I'm busy knocking your stuff off the counter "
     "\u2014 leave a message and I'll ignore it at 4 a.m."
 )
 
